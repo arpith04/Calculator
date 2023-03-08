@@ -1,0 +1,15 @@
+input {
+    height: 110px;
+    width: 375px;
+    background-color: #101116;
+    border: none;
+    color: cornsilk;
+    text-align: right;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+input:focus {
+    outline: none;
+}
